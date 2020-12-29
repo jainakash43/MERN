@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://akash123:akashjain@cluster0.kdlqi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"30b8d5f4bf87b548809e",
+    "githubSecret":"4723da91ff6e6586739c2b070fdfb3c438522adf"
+
+}
